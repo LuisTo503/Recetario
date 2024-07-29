@@ -57,3 +57,6 @@ El archivo `styles.css` en el directorio `css/` incluye los estilos para la pág
     --muted-foreground: #757575;
     --radius: 0.5rem;
 }
+
+
+[web_recetas.png](https://github.com/LuisTo503/Recetario/blob/0a12191d01941fe798be447d1aeed4601f62e041/web_recetas.png)
