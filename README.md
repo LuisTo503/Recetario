@@ -1,5 +1,5 @@
 # Recetas de Omelette
-
+![web_recetas.png](https://github.com/LuisTo503/Recetario/blob/0a12191d01941fe798be447d1aeed4601f62e041/web_recetas.png)
 ## Descripción
 
 Este proyecto es una página web simple que presenta una receta de omelette clásico. La página incluye una descripción de la receta, una imagen del omelette, los ingredientes necesarios y las instrucciones paso a paso para prepararlo. También se proporciona información nutricional.
@@ -59,4 +59,4 @@ El archivo `styles.css` en el directorio `css/` incluye los estilos para la pág
 }
 
 
-[web_recetas.png](https://github.com/LuisTo503/Recetario/blob/0a12191d01941fe798be447d1aeed4601f62e041/web_recetas.png)
+
